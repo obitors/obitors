@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I don't go out and I am slow to respond
 
 ## :mailbox: Get in touch: 💬
-[![Gmail Badge](https://img.shields.io/badge/-ashutosh@obitors.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashutosh@obitors.com) [![Linkedin Badge](https://img.shields.io/badge/-obitors-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/obitors/) [![Ashutosh Agrawal](https://img.shields.io/badge/Website-Ashutosh-Agrawal)](https://ashutoshagrawal.in) 
+[![Gmail Badge](https://img.shields.io/badge/-ashutosh@obitors.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashutosh@obitors.com) [![Linkedin Badge](https://img.shields.io/badge/-obitors-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/obitors/) [![Ashutosh Agrawal](https://img.shields.io/badge/Website-Ashutosh-Agrawal)](https://ashutoshagrawal.in) [![Instagram Badge](https://img.shields.io/badge/-obitors-pink?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/obitors/)
