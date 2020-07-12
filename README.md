@@ -8,4 +8,5 @@
 - 📫 How to reach me: ashutosh@obitors.com
 - ⚡ Fun fact: I don't go out and I am slow to respond
 
-<a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=obitors.obitors"></a>
+## :mailbox: Get in touch: 💬
+[![Gmail Badge](https://img.shields.io/badge/-ashutosh@obitors.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:ashutosh@obitors.com) [![Linkedin Badge](https://img.shields.io/badge/-vimalverma558-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/obitors/) [![Ashutosh Agrawal](https://img.shields.io/badge/Website-Ashutosh-Agrawal)](https://ashutoshagrawal.in) 
