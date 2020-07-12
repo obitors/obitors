@@ -6,4 +6,4 @@
 - 👯 I’m looking to collaborate on a android dev. project
 - 💬 Ask me about Architecture and design
 - 📫 How to reach me: ashutosh@obitors.com
-- ⚡ Fun fact: I don't go out
+- ⚡ Fun fact: I don't go out and I am slow to respond
