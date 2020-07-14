@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at IIT Kharagpur                              
 - 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on a android dev project using AR/VR 
+- 👯 I’m looking to collaborate on a android dev with AR/VR 
 - 💬 Ask me about Architecture and design
 - 📫 How to reach me: ashutosh@obitors.com
 - ⚡ Fun fact: I don't go out and I am slow to respond
