@@ -1,4 +1,4 @@
-#### Hi, I am Ashutosh Agrawal 👋
+## Hi, I am Ashutosh Agrawal 👋
 
 
 - 🔭 I’m currently studying at IIT Kharagpur                              
