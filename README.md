@@ -1,5 +1,6 @@
 ## Hi, I am Ashutosh Agrawal 👋
 
+I'm a Mobile developer, UX researcher and troubleshooter who is passionate about creating tech solutions for startups and businesses, and building community. I enjoy working with Dart, css, photoshop and illustrator. In my spare time I love to work on creating UX solutions that inspire, UI / Web. I strive to create usable and polished products through passionate and deliberate design.
 
 - 🔭 I’m currently studying at IIT Kharagpur                              
 - 🌱 I’m currently learning Flutter
