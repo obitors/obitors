@@ -3,7 +3,7 @@
 I'm a Mobile developer, UX researcher and troubleshooter who is passionate about creating tech solutions for startups and businesses, and building community. I enjoy working with Dart, css, photoshop and illustrator. In my spare time I love to work on creating UX solutions that inspire, spending way too much time on the computer, tinkering with Photoshop, existing systems and frameworks.
 
 - 🔭 I’m currently studying at IIT Kharagpur                              
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and GraphQL
 - 👯 I’m looking to collaborate on android dev project with AR/VR 
 - 💬 Ask me about Architecture and design
 - 📫 How to reach me: ashutosh@obitors.com
